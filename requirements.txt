@@ -1,0 +1,4 @@
+Django==4.1
+Django==4.1.7
+django_braces==1.15.0
+misaka==2.1.1
